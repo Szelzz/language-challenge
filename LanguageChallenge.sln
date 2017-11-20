@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPIToTheNthDigit", "find-pi-to-the-nth-digit\c#\FindPIToTheNthDigit.csproj", "{0446E5BC-3DB7-4BD5-BBC0-10A3A2D2406D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0446E5BC-3DB7-4BD5-BBC0-10A3A2D2406D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0446E5BC-3DB7-4BD5-BBC0-10A3A2D2406D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0446E5BC-3DB7-4BD5-BBC0-10A3A2D2406D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0446E5BC-3DB7-4BD5-BBC0-10A3A2D2406D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF9C7A2C-DA7F-4DE6-BDD0-86B49D6C3178}
+	EndGlobalSection
+EndGlobal
